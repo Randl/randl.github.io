@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://www.technion.ac.il/en/home-2/">Technion – Israel Institute of Technology</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
