@@ -122,12 +122,12 @@ plugins:
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
-
+ 
 scholar:
 
   last_name: Zheltonozhskii
 
-  style: apa
+  style: https://github.com/citation-style-language/styles/blob/master/association-for-computational-linguistics.csl
   locale: en
 
   source: /_bibliography/
@@ -143,6 +143,7 @@ scholar:
 
   query: "@*"
 
+  bibliography_template: "{{ reference | replace_first: 'Evgenii Zheltonozhskii', '<b>Evgenii Zheltonozhskii</b>' }}"
 # -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
