@@ -127,7 +127,7 @@ scholar:
 
   last_name: Zheltonozhskii
 
-  style: https://github.com/citation-style-language/styles/blob/master/association-for-computational-linguistics.csl
+  style: https://raw.githubusercontent.com/citation-style-language/styles/master/association-for-computational-linguistics.csl
   locale: en
 
   source: /_bibliography/

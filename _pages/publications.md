@@ -16,4 +16,4 @@ nav: true
 
 </div>
 
-
+$("body").html($("body").html().replace(/Evgenii Zheltonozhskii/g,'<b>Evgenii Zheltonozhskii</b>'));
