@@ -11,7 +11,7 @@ nav: true
 
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* | replace:'2020 International Joint Conference on Neural Networks (IJCNN)','<span style="color:brown">2020 International Joint Conference on Neural Networks (IJCNN)</span>' %}
+  {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>

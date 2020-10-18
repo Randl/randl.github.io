@@ -134,6 +134,8 @@ scholar:
   bibliography: papers.bib
   bibliography_template: bib
 
+  sort_by: year,month
+
   replace_strings: true
   join_strings: true
 
