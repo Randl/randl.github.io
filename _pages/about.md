@@ -19,6 +19,6 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a CS M.Sc. student in Technion, advised by Alex Bronstein. My [resume](/assets/pdf/resume.pdf).
 
-*Research interests*: Self-supervised deep learning, deep learning for 3D, complex computer vision problems, applications of DL in physics, Bayesian DL, bias in ML systems.
+**Research interests**: Self-supervised deep learning, deep learning for 3D, complex computer vision problems, applications of DL in physics, Bayesian DL, bias in ML systems.
 
-*Previously*: I've finished double B.Sc. (CS and Physics+Math) in Technion.
+**Previously**: I've finished double B.Sc. (CS and Physics+Math) in Technion.
