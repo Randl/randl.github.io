@@ -143,7 +143,6 @@ scholar:
 
   query: "@*"
 
-  bibliography_template: "{{ reference | replace_first: 'Evgenii Zheltonozhskii', '<b>Evgenii Zheltonozhskii</b>' }}"
 # -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
