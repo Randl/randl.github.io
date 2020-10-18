@@ -2,10 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I taught.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<h2 class="year">Winter 2020-2021</h2>
+- Organization of Seminar in Deep Learning
+<h2 class="year">Spring 2020</h2>
+- TA in Introduction to Machine Learning
+- Organization of Seminar in Deep Learning
