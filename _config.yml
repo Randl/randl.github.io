@@ -52,7 +52,6 @@ blogger_url: # your blogger URL
 contact_note: >
   You can always reach me by e-mail.
 
-enable_google_analytics: true
 google_analytics: UA-180773493-1 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
@@ -147,12 +146,12 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:  false
+enable_google_analytics:  true
 enable_mansory:           true
 enable_math:              true
 enable_tooltips:          false
 enable_darkmode:          false
-show_social_icons:        false
+show_social_icons:        true
 
 # -----------------------------------------------------------------------------
 # Library versions
