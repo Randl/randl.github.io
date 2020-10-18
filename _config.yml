@@ -138,6 +138,7 @@ scholar:
 
   replace_strings: true
   join_strings: true
+  parse_names: false
 
   details_dir: bibliography
   details_layout: bibtex.html
