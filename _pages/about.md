@@ -17,8 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a CS M.Sc. student in Technion, advised by Alex Bronstein. You can find more details about my experience in [resume](/assets/pdf/resume.pdf).
+I'm a CS M.Sc. student in Technion, advised by Alex Bronstein and Avi Mendelson. You can find more details about my experience in [resume](/assets/pdf/resume.pdf).
 
 **Research interests**: Self-supervised deep learning, deep learning for 3D, complex computer vision problems (e.g., panoptic segmentation, action segmentation), applications of DL in physics, Bayesian DL, bias in ML systems.
 
-**Previously**: I was part of [Rothschild Technion Program for Excellence](https://excellence.technion.ac.il/) and received double B.Sc. (CS and Physics+Math) from Technion.
+**Previously**: I was a research intern in Creative Vision team in Snap Research in Summer 2020. Before starting my Master's, I was part of [Rothschild Technion Program for Excellence](https://excellence.technion.ac.il/) and received double B.Sc. (CS and Physics+Math) from Technion.
