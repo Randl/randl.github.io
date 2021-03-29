@@ -161,7 +161,6 @@
 	sortkey = {1},	
 	year = {2018},
 	month = {5},
-	url       = {https://doi.org/10.1109/IPDPSW.2018.00032},
 	doi       = {10.1109/IPDPSW.2018.00032},
 	timestamp = {Wed, 08 Aug 2018 17:14:45 +0200},
 	biburl    = {https://dblp.org/rec/bib/conf/ipps/BaskinLZBM18},
@@ -170,25 +169,28 @@
 	abbr = {IPDPS <br> workshop},
 }
 
-@ARTICLE{baskin2018uniq,
-	author = {Chaim Baskin and
-	Eli Schwartz and
-	Zheltonozhskii, Evgenii and
-	Natan Liss and
-	Raja Giryes and
-	Alexander M. Bronstein and
-	Avi Mendelson},
-	title = "{{UNIQ:} Uniform Noise Injection for the Quantization of Neural Networks}",
-	journal = {arXiv pre-print},
-	keywords = {Computer Science - Computer Vision and Pattern Recognition, Computer Science - Machine Learning},
-	year =  {2018},
-	month = {4},
-	archivePrefix = {arXiv},
-	arxiv = {1804.10969},
-	sortkey = {2},
-	primaryClass = {cs.LG},
-	abbr = {arXiv},
-    url={https://arxiv.org/abs/1804.10969}
+@article{baskin2018uniq,
+author = {Baskin, Chaim and Liss, Natan and Schwartz, Eli and Evgenii Zheltonozhskii and Giryes, Raja and Bronstein, Alex M. and Mendelson, Avi},
+title = {{UNIQ}: Uniform Noise Injection for Non-Uniform Quantization of Neural Networks},
+year = {2021},
+issue_date = {March 2021},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {37},
+number = {1–4},
+issn = {0734-2071},
+url = {https://doi.org/10.1145/3444943},
+doi = {10.1145/3444943},
+abstract = {We present a novel method for neural network quantization. Our method, named UNIQ, emulates a non-uniform k-quantile quantizer and adapts the model to perform well with quantized weights by injecting noise to the weights at training time. As a by-product of injecting noise to weights, we find that activations can also be quantized to as low as 8-bit with only a minor accuracy degradation. Our non-uniform quantization approach provides a novel alternative to the existing uniform quantization techniques for neural networks. We further propose a novel complexity metric of number of bit operations performed (BOPs), and we show that this metric has a linear relation with logic utilization and power. We suggest evaluating the trade-off of accuracy vs. complexity (BOPs). The proposed method, when evaluated on ResNet18/34/50 and MobileNet on ImageNet, outperforms the prior state of the art both in the low-complexity regime and the high accuracy regime. We demonstrate the practical applicability of this approach, by implementing our non-uniformly quantized CNN on FPGA.},
+journal = {ACM Transactions on Computer Systems},
+month = 3,
+articleno = {4},
+numpages = {15},
+keywords = {Deep learning, efficient deep learning, neural networks, quantization},
+arxiv = {1804.10969},
+sortkey = {2},
+url={https://arxiv.org/abs/1804.10969},
+abbr = {ACM TOCS},
 }
 
 @ARTICLE{DBLP:journals/corr/abs-1810-00162,
