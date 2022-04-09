@@ -1,34 +1,42 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Bronstein":
+  - firstname: ["Alex", "Alex M.", "Alexander", "Alexander M."]
+    url: https://bron.cs.technion.ac.il/
+"Baskin":
+  - firstname: ["Chaim"]
+    url: https://chaimb.cs.technion.ac.il/
+"Wolf":
+  - firstname: ["Lior"]
+    url: http://www.cs.tau.ac.il/~wolf/
+"Tulyakov":
+  - firstname: ["Sergey"]
+    url: http://www.stulyakov.com/
+"Litany":
+  - firstname: ["Or"]
+    url: https://orlitany.github.io/
+"Schwartz":
+  - firstname: ["Eli"]
+    url: https://elischwartz.github.io/
+"Evron":
+  - firstname: ["Itay"]
+    url: https://www.evron.me/
+"Alon":
+  - firstname: ["Uri"]
+    url: https://urialon.ml/
+"Galanti":
+  - firstname: ["Tomer"]
+    url: https://www.tau.ac.il/~tomerga2/
+"Giryes":
+  - firstname: ["Raja"]
+    url: http://web.eng.tau.ac.il/~raja
+"Mendelson":
+  - firstname: ["Avi"]
+    url: http://www.cs.technion.ac.il/~mendlson/
+"Fidler":
+  - firstname: ["Sanja"]
+    url: https://www.cs.utoronto.ca/~fidler/
+"Kar":
+  - firstname: ["Amlan"]
+    url: https://amlankar.github.io/
+"Lindner":
+  - firstname: ["Netanel", "Netanel H."]
+    url: https://phsites.technion.ac.il/lindner/

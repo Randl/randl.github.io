@@ -1,6 +1,35 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+IJCNN:
+    url: https://www.ijcnn.org
+    color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+Sustainability:
+    url: https://www.mdpi.com/journal/sustainability
+    color: "#00369f"
+
+ML:
+    url: https://link.springer.com/journal/10994
+    color: "#00369f"
+
+ACM TOCS:
+    url: https://dl.acm.org/journal/tocs
+    color: "#00369f"
+
+Mathematics:
+    url: https://www.mdpi.com/journal/mathematics
+    color: "#00369f"
+
+JMLR:
+    url: https://www.jmlr.org/
+    color: "#00369f"
+
+WACV'22:
+    url: https://wacv2022.thecvf.com/
+    color: "#00369f"
+
+CLeaR'22:
+    url: https://www.cclear.cc/2022
+    color: "#00369f"
+
+CVPR'22:
+    url: https://www.cclear.cc/2022
+    color: "#00369f"
