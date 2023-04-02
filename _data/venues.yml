@@ -22,6 +22,9 @@ JMLR:
     url: https://www.jmlr.org/
     color: "#00369f"
 
+JIRS:
+    url: https://www.springer.com/journal/10846
+
 WACV'22:
     url: https://wacv2022.thecvf.com/
     color: "#00369f"

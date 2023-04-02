@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Lewiner Institute for Theoretical Physics, room 407</p>
+    <p>Lidow Complex, room 309</p>
     <p>Technion</p>
     <p>Haifa, 3200003</p>
 
@@ -20,8 +20,12 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a Physics Ph.D. student in Technion, advised by [Netanel Lindner](https://phsites.technion.ac.il/lindner/). You can find more details about my experience in [resume](/assets/pdf/resume.pdf). 
 
-**Research interests**: I'm interested in condensed matter theory and, in particular, topological phases as well as application of deep learning and self-supervised learning in physics. 
-Currently I focus on edge modes and interfaces in topological state, e.g., Kitaev spin liquid, fractional quantum Hall, p+ip superconductors. 
+**Research interests**: 
+I'm interested in the condensed matter theory of strongly correlated materials and, in particular, 
+topological phases and topological quantum computing, as well as the application of deep learning 
+and self-supervised learning in physics. 
+Currently, I focus on edge modes and interfaces in topological states, e.g., fractional quantum Hall, 
+Kitaev spin liquid, and p+ip superconductors. 
 I also have a [Telegram channel](https://t.me/j_links) where I post links to research I find interesting.
 
 **Previously**: 

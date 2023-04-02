@@ -1,32 +1,38 @@
-- title: General Information
+- title: Skills and expertise
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Research interests
+      value: Topological phases and interfaces between them; deep and self-supervised learning for physics
+    - name: Software development
+      value: Python, modern C++, Julia, Linux, LATEX, git, jupyter
+    - name: Frameworks
+      value: PyTorch, Qiskit, Hugging Face Transformers, PyTorch3D, TensorFlow
+    - name: Deep learning
+      value: "Since 2017 co-authored 18 papers and preprints in multiple fields of deep learning, including top
+      tier venues (CVPR, JMLR). Wide knowledge of current trends in computer vision"
+
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Physics
+      institution: Technion – Israel Institute of Technology
+      year: 2022-now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Advisor: Prof. Netanel Lindner"
+        - "Research in theoretical condensed matter: edge modes and interfaces in topological states, e.g.,
+            fractional quantum Hall, Kitaev spin liquid, p+ip superconductors."
+    - title: MSc in Computer Science
+      institution: Technion – Israel Institute of Technology
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - "Thesis: “Reducing Supervision in Visual Recognition Tasks”"
+        - "Advisors: Prof. Alex Bronstein, Prof. Avi Mendelson, and Dr. Chaim Baskin;"
+        - "Teaching experience: “Advanced Topics in Deep Learning”, “Deep Learning on Computational Accelerators”,"
+        - "“Intro to Machine Learning”, organization of seminar in Deep Learning;"
+        - "Advising experience: advised research projects on computer vision and reduced supervision;"
+        - Reviewer for CVPR, ICCV, ECCV, WACV;
+        - CS dean excellence scholarship recipient.
 
 - title: Experience
   type: time_table
