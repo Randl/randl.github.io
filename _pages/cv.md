@@ -4,6 +4,6 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: resume.pdf
+cv_pdf: resume_zheltonozhskii.pdf
 description: My CV.
 ---

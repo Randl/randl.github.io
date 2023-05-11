@@ -8,6 +8,8 @@ nav_order: 5
 ---
 
 
+<h2 class="year">Winter 2022-2023</h2>
+- TA in Solid State Physics (116217)
 <h2 class="year">Spring 2021</h2>
 - TA in Advanced Topics in Deep Learning (236605)
 <h2 class="year">Winter 2020-2021</h2>
