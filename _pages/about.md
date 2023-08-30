@@ -41,6 +41,6 @@ and studied reduced supervision in computer vision (in particular, self-supervis
 I was a research intern in Creative Vision team in Snap Research in Summer 2020, 
 working on 3D reconstruction trained on single 2D views with [Olly Woodford](https://ojwoodford.github.io/) 
 and [Sergey Tulyakov](http://www.stulyakov.com/). 
-Before that, I was part of [Rothschild Technion Program for Excellence](https://excellence.technion.ac.il/) and 
+Before that, I was part of [Rothschild Technion Program for Excellence](https://excellence.technion.ac.il/en/) and 
 received double B.Sc. (CS and Physics+Math, Cum Laude) from Technion. In 2017, I participated in Google Summer of Code 
 under OpenCV organization.
