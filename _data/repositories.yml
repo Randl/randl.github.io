@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Randl
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Randl/qhack_toric_code
+  - Randl/kmeans_selfsuper
+  - google/BIG-bench
+  - ContrastToDivide/C2D
+  - mttr2021/MTTR
