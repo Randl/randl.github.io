@@ -5,4 +5,5 @@ inline: true
 ---
 
 My poster "Competition of Dissipative and Andreev Processes in Abelian Quantum Hall-Superconductor Junctions" was
-awarded 1st place prize at [Technion Physics Faculty Research day](https://phys.technion.ac.il/en/research/research-day).
+awarded 1st place prize at
+[Technion Physics Faculty Research day](https://phys.technion.ac.il/en/about/research-bits/research-day-2023).
