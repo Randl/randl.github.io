@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
+<h2 class="year">Winter 2023-2024</h2>
+- TA in Solid State Physics (116217)
 <h2 class="year">Winter 2022-2023</h2>
 - TA in Solid State Physics (116217)
 <h2 class="year">Spring 2021</h2>
