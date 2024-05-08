@@ -40,3 +40,6 @@
 "lindner":
   - firstname: ["Netanel", "Netanel H."]
     url: https://phsites.technion.ac.il/lindner/
+"stern":
+  - firstname: ["Ady", "Adiel"]
+    url: https://webhome.weizmann.ac.il/home/stern/
