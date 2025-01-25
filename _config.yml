@@ -328,6 +328,7 @@ filtered_bibtex_keywords:
     pdf,
     poster,
     preview,
+    sortkey,
     selected,
     slides,
     supp,
