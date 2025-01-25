@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://evgeniizh.com//sitemap.xml
+User-agent: * Disallow: Sitemap: https://evgeniizh.com//sitemap.xml
