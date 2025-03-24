@@ -30,18 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-self-supervised-learning-for-large-scale-unsupervised-image-clustering",
-      
-        title: "Self-Supervised Learning for Large-Scale Unsupervised Image Clustering",
-      
-      description: "Short summary of our latest paper",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2020/unsupervised_ssl/";
-        
-      },
-    },{id: "news-our-paper-self-supervised-learning-for-large-scale-unsupervised-image-clustering-got-accepted-to-self-supervised-learning-theory-and-practice-workshop-at-neurips-2020",
+        },{id: "news-our-paper-self-supervised-learning-for-large-scale-unsupervised-image-clustering-got-accepted-to-self-supervised-learning-theory-and-practice-workshop-at-neurips-2020",
           title: 'Our paper “Self-Supervised Learning for Large-Scale Unsupervised Image Clustering” got accepted to Self-Supervised...',
           description: "",
           section: "News",},{id: "news-our-paper-early-stage-neural-network-hardware-performance-analysis-got-accepted-to-special-issue-energy-efficient-computing-systems-for-deep-learning-of-sustainability-journal",
@@ -94,25 +83,25 @@ ninja.data = [{
           window.open("mailto:%7A%68%65%6C%74%6F%6E%6F%7A%68%73%6B%69%79@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=1yHw4W0AAAAJ", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/evgeniyzhe", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/Randl", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/zheltonozhskiy", "_blank");
-        },
-      },{
-        id: 'social-mastodon',
-        title: 'Mastodon',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://mastodon.social/evgeniizh", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -122,13 +111,6 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0002-5400-9321", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=1yHw4W0AAAAJ", "_blank");
-        },
-      },{
         id: 'social-telegram',
         title: 'telegram',
         section: 'Socials',
@@ -136,11 +118,18 @@ ninja.data = [{
           window.open("https://telegram.me/EvgeniyZh", "_blank");
         },
       },{
-        id: 'social-x',
-        title: 'X',
+        id: 'social-mastodon',
+        title: 'Mastodon',
         section: 'Socials',
         handler: () => {
-          window.open("https://twitter.com/evgeniyzhe", "_blank");
+          window.open("https://mastodon.social/evgeniizh", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/zheltonozhskiy", "_blank");
         },
       },{
       id: 'light-theme',
