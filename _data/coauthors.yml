@@ -1,34 +1,45 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"bronstein":
+  - firstname: ["Alex", "Alex M.", "Alexander", "Alexander M."]
+    url: https://bron.cs.technion.ac.il/
+"baskin":
+  - firstname: ["Chaim"]
+    url: https://chaimbaskin.bgu.ac.il/
+"wolf":
+  - firstname: ["Lior"]
+    url: https://www.cs.tau.ac.il/~wolf/
+"tulyakov":
+  - firstname: ["Sergey"]
+    url: http://www.stulyakov.com/
+"litany":
+  - firstname: ["Or"]
+    url: https://orlitany.github.io/
+"schwartz":
+  - firstname: ["Eli"]
+    url: https://elischwartz.github.io/
+"evron":
+  - firstname: ["Itay"]
+    url: https://www.evron.me/
+"alon":
+  - firstname: ["Uri"]
+    url: https://urialon.ml/
+"galanti":
+  - firstname: ["Tomer"]
+    url: https://galanti.mit.edu/
+"giryes":
+  - firstname: ["Raja"]
+    url: https://web.eng.tau.ac.il/~raja
+"mendelson":
+  - firstname: ["Avi"]
+    url: https://www.cs.technion.ac.il/~mendlson/
+"fidler":
+  - firstname: ["Sanja"]
+    url: https://www.cs.utoronto.ca/~fidler/
+"kar":
+  - firstname: ["Amlan"]
+    url: https://amlankar.github.io/
+"lindner":
+  - firstname: ["Netanel", "Netanel H."]
+    url: https://phsites.technion.ac.il/lindner/
+"stern":
+  - firstname: ["Ady", "Adiel"]
+    url: https://webhome.weizmann.ac.il/home/stern/

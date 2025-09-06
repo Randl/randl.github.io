@@ -1,9 +1,49 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+PRB:
+  url: https://prb.aps.org/
+  color: "#9f5400"
+  name: PRB
+
+IJCNN:
+  url: https://www.ijcnn.org
   color: "#00369f"
+  name: IJCNN
 
-"PhysRev":
-  url: https://journals.aps.org/
+TOCS:
+  url: https://dl.acm.org/journal/tocs
+  color: "#9f5400"
+  name: ACM TOCS
 
-"Vision":
-  color: "#009f36"
+JMLR:
+  url: https://www.jmlr.org/
+  color: "#9f5400"
+  name: JMLR
+
+TMLR:
+  url: https://jmlr.org/tmlr/
+  color: "#9f5400"
+  name: TMLR
+
+WACV22:
+  url: https://wacv2022.thecvf.com/
+  color: "#00369f"
+  name: WACV
+
+CLeaR22:
+  url: https://www.cclear.cc/2022
+  color: "#00369f"
+  name: CLeaR
+
+CVPR22:
+  url: https://cvpr2022.thecvf.com/
+  color: "#00369f"
+  name: CVPR
+
+ICMLW1:
+  url: https://sites.google.com/view/automl2019icml/
+  color: "#00369f"
+  name: ICML <br> workshop
+
+NIPSW1:
+  url: https://nips.cc/virtual/2020/protected/workshop_16146.html
+  color: "#00369f"
+  name: NeurIPS <br> workshop

@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Randl
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Randl/qhack_toric_code
+  - Randl/kmeans_selfsuper
+  - google/BIG-bench
+  - ContrastToDivide/C2D
+  - mttr2021/MTTR
