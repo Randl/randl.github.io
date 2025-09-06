@@ -36,9 +36,9 @@ You can find more details about my experience in short [resume](/assets/pdf/resu
 I'm interested in the condensed matter theory of strongly correlated materials and, in particular,
 topological phases and topological quantum computing, as well as the application of deep learning
 and self-supervised learning in physics.
-Currently, I focus on different aspects of experimental predictions related to topological properties 
-of strongly correlated matter. This includes experiments related to TQC, such as fractional quantum Hall states, 
-Kitaev spin liquid, and p+ip superconductors, possible realizations of universal quantum computing in topological systems, 
+Currently, I focus on different aspects of experimental predictions related to topological properties
+of strongly correlated matter. This includes experiments related to TQC, such as fractional quantum Hall states,
+Kitaev spin liquid, and p+ip superconductors, possible realizations of universal quantum computing in topological systems,
 and quantum simulations of topological systems and their usage as quantum error-correction codes.
 I also have a [Telegram channel](https://t.me/j_links) where I post links to research I find interesting.
 
