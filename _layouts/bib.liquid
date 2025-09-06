@@ -18,28 +18,28 @@
             {% if site.data.venues[entry.abbr].url %}
               <a href="{{ site.data.venues[entry.abbr].url }}">
                 {% if site.data.venues[entry.abbr].name %}
-                    {{ site.data.venues[entry.abbr].name }}
+                  {{ site.data.venues[entry.abbr].name }}
                 {% else %}
-                    {{ entry.abbr }}
+                  {{ entry.abbr }}
                 {% endif %}
               </a>
             {% else %}
               <div>
                 {% if site.data.venues[entry.abbr].name %}
-                    {{- site.data.venues[entry.abbr].name -}}
+                  {{- site.data.venues[entry.abbr].name -}}
                 {% else %}
-                    {{- entry.abbr -}}
+                  {{- entry.abbr -}}
                 {% endif %}
               </div>
             {% endif %}
           </abbr>
         {% else %}
           <abbr class="badge rounded w-100">
-                {% if site.data.venues[entry.abbr].name %}
-                    {{ site.data.venues[entry.abbr].name }}
-                {% else %}
-                    {{ entry.abbr }}
-                {% endif %}
+            {% if site.data.venues[entry.abbr].name %}
+              {{ site.data.venues[entry.abbr].name }}
+            {% else %}
+              {{ entry.abbr }}
+            {% endif %}
           </abbr>
         {% endif %}
       {% endif %}
