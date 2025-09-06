@@ -42,6 +42,10 @@
           %}
         {% endif %}
       {% endif %}
+      <br>
+      {% if entry.award %}
+        <span class="badge award">{{ entry.award }}</span>
+      {% endif %}
     </div>
   {% endif %}
 
@@ -112,7 +116,7 @@
         {%- for author in entry.author_array offset: author_array_limit -%}
           {% assign more_authors_show = more_authors_show | append: author.first | append: ' ' | append: author.last %}
           {% unless forloop.last %}
-            {% assign more_authors_show = more_authors_show | append: ', ' %}
+            {%- assign more_authors_show = more_authors_show | append: ', ' -%}
           {% endunless %}
         {%- endfor -%}
         {%- assign more_authors_show = more_authors_show | regex_replace: '([*∗†‡§¶‖&^]+)', '<sup>\1</sup>' -%}
@@ -152,9 +156,9 @@
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
     {% if entry.type == 'article' %}
-      {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
+      {% capture entrytype %}<em><span style="color:brown">{{ entry.journal }}</span></em>{% endcapture %}
     {% elsif proceedings contains entry.type %}
-      {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
+      {% capture entrytype %}<em>In <span style="color:brown">{{ entry.booktitle }}</span></em>{% endcapture %}
     {% elsif thesis contains entry.type %}
       {% capture entrytype %}<em>{{ entry.school }}</em>{% endcapture %}
     {% else %}
@@ -187,19 +191,19 @@
 
     <!-- Links/Buttons -->
     <div class="links">
-      {% if entry.award %}
-        <a class="award btn btn-sm z-depth-0" role="button">
-          {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
-        </a>
-      {% endif %}
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
       {% endif %}
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
       {% endif %}
+      {% if entry.url %}
+        {% unless entry.url contains 'arxiv.org/abs' %}
+          <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">URL</a>
+        {% endunless %}
+      {% endif %}
       {% if entry.arxiv %}
-        <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+        <a href="https://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
